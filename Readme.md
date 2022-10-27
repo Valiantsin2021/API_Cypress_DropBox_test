@@ -1,4 +1,4 @@
-# JS automation tests using Postman and Cypress
+# JS automation tests using Cypress
 
 ## This repository purpose is to perform API positive and negative test automation of DropBox upload and delete file features https://www.dropbox.com/
 
